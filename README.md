@@ -1,0 +1,2 @@
+# RigidChipsEx
+RCもどき
