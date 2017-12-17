@@ -1,0 +1,4 @@
+﻿  XFile.cpp
+d:\source code\visual studio 2010\projects\rigidchipsex\rigidchipsex\xfile.cpp(69): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+d:\source code\visual studio 2010\projects\rigidchipsex\rigidchipsex\xfile.cpp(76): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  RigidChipsEx.vcxproj -> D:\Source Code\Visual Studio 2010\Projects\RigidChipsEx\Debug\RigidChipsEx.exe

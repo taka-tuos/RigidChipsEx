@@ -1,0 +1,28 @@
+// [RCD] 
+Val
+{
+}
+Key
+{
+}
+Body
+{
+	Core() {
+		N:Trim(angle=45) {
+			W:Chip(angle=30) { }
+			E:Chip(angle=-30) { }
+		}
+		S:Trim(angle=45) {
+			E:Chip(angle=30) { }
+			W:Chip(angle=-30) { }
+		}
+		E:Trim(angle=45) {
+			N:Chip(angle=30) { }
+			S:Chip(angle=-30) { }
+		}
+		W:Trim(angle=45) {
+			S:Chip(angle=30) { }
+			N:Chip(angle=-30) { }
+		}
+	}
+}
